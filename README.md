@@ -1,5 +1,7 @@
 # Choir-effect-simulation
 
+**A course project in [DT2212 Music Acoustics](https://www.kth.se/student/kurser/kurs/DT2212?l=en)**
+
 The idea of this project was to implement a choir effect on a ten seconds long single vocal containing 4 pitches using **MATLAB**. 
 
 A single vocal was recorded in a studio and a beating was added to each partial of the vocal, to obtain variations in amplitude and perceive the vocal as a choir. 
